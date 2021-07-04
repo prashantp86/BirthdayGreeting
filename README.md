@@ -7,23 +7,23 @@ In this app, i have used Grid layout using recycler view to show the card.
 # Screenshots
 <p>
 
-<img width="300" src="screenshots/Name" alt="" >
+<img width="300" src="screenshots/Name.png" alt="" >
 
-<img width="300" src="screenshots/Card list1" alt="" >
-
-
-<img width="300" src="screenshots/Card list2" alt="" >
+<img width="300" src="screenshots/Card list1.png" alt="" >
 
 
-<img width="300" src="screenshots/Birthday card1" alt="" >
+<img width="300" src="screenshots/Card list2.png" alt="" >
 
 
-<img width="300" src="screenshots/Birthday card2" alt="" >
+<img width="300" src="screenshots/Birthday card1.png" alt="" >
+
+
+<img width="300" src="screenshots/Birthday card2.png" alt="" >
   
   
-<img width="300" src="screenshots/Birthday card3" alt="">
+<img width="300" src="screenshots/Birthday card3.png" alt="">
   
   
-<img width="300" src="screenshots/Birthday card4" alt="">
+<img width="300" src="screenshots/Birthday card4.png" alt="">
 
 </p>
