@@ -12,7 +12,7 @@ In this app, i have used Grid layout using recycler view to show the card.
 <img width="300" src="screenshots/Card list1.png" alt="" >
 
 
-<img width="300" src="screenshots/Card list2.png" alt="" >
+<img width="300" src="screenshots/card list2.png" alt="" >
 
 
 <img width="300" src="screenshots/Birthday card1.png" alt="" >
